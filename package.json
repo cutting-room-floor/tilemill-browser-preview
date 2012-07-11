@@ -1,0 +1,7 @@
+{
+    "name": "tilemill-browser-preview",
+    "description": "Preview map in default browser.",
+    "version": "0.0.1",
+    "engines": {"tilemill":"0.10.0"},
+    "keywords": ["tilemill"]
+}
